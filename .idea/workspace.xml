@@ -7,14 +7,7 @@
     <list default="true" id="5bef4bba-cb83-4990-aec6-a60419df0de2" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/IdeaProjects.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../CursoJava/CursoJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minado.campo/java/excecao/ExplosaoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minado.campo/java/modelo/Campo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/minado.campo/java/modelo/Tabuleiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minado.campo/java/Aplicacao.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../configuracoes-projetos-master/chave-android/key.jks" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../configuracoes-projetos-master/chave-android/key.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../configuracoes-projetos-master/chave-ios/Developer-cert.p12" afterDir="false" />
@@ -2128,6 +2121,10 @@
       <change afterPath="$PROJECT_DIR$/../wildfly-20.0.0.Final/welcome-content/noredirect.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildfly-20.0.0.Final/welcome-content/wildfly.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../wildfly-20.0.0.Final/welcome-content/wildfly_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minado.campo/java/modelo/Campo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minado.campo/java/modelo/Campo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/minado.campo/java/modelo/Tabuleiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/minado.campo/java/modelo/Tabuleiro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2142,7 +2139,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22Mq55BN5J53gfVFsCytjBkBIk5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -2162,6 +2159,20 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
+  <component name="RunManager">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aplicacao" />
+      <module name="campo-minado" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -2173,7 +2184,10 @@
       <workItem from="1639657621430" duration="1686000" />
       <workItem from="1640110337441" duration="1134000" />
       <workItem from="1640193512687" duration="32000" />
-      <workItem from="1641413001865" duration="2191000" />
+      <workItem from="1641413001865" duration="3570000" />
+      <workItem from="1641493229532" duration="2278000" />
+      <workItem from="1641813909706" duration="4526000" />
+      <workItem from="1642101574209" duration="1173000" />
     </task>
     <servers />
   </component>
